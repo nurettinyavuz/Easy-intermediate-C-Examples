@@ -1,4 +1,6 @@
-# Easy-intermediate-C-Examples
+# Easy and intermediate C Examples
+<img src="https://tenor.com/tr/view/1000-gif-24970074">
+
 C projects
 
 ## The following tools/languages will be used in this project;
